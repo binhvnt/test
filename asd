@@ -11,3 +11,4 @@ test 2
 4
 
 main
+a du ok
